@@ -1,2 +1,0 @@
-# InsightsRetail
-InsightsRetail
